@@ -8,3 +8,4 @@ sentence_transformers
 faiss_cpu
 chainlit
 huggingface_hub
+scikit-learn>=1.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
